@@ -10,7 +10,7 @@ I decided to run this Tweet crawler on two countries facing immense crisis right
 I started with running the stream crawler using the location boundaries for Ukraine and the Contiguous United States, including Alaska and Hawaii. (Though only one tweet was geotagged in Alaska for the two latter)
 In the search filter I tracked 'Ukraine' and pulled over 100 tweets. Since this is a more recent current event, this made sense for the time. Tweets were pulled for all over the world though and ranged from support for Ukraine to bot tweets that were filling the stream. 
 
-![Map of Tweets filtered 'Ukraine'](img\screenshot_of_map-1.png)
+![Map of Tweets filtered 'Ukraine'](lab02-geog458/img/screenshot_of_map-1.png)
 Above is the map produced in QGIS that depicts the range of tweets over the globe that streamed from the filter. The pattern depicts a nationwide response from the United States but a concentration in the target country of Ukraine. 
 
 The tweets themselves ranged in context of the ongoing crisis.
