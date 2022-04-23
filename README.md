@@ -11,6 +11,7 @@ I started with running the stream crawler using the location boundaries for Ukra
 In the search filter I tracked 'Ukraine' and pulled over 100 tweets. Since this is a more recent current event, this made sense for the time. Tweets were pulled for all over the world though and ranged from support for Ukraine to bot tweets that were filling the stream. 
 
 ![Map of Tweets filtered 'Ukraine'](img/screenshot_of_map-1.png)
+
 Above is the map produced in QGIS that depicts the range of tweets over the globe that streamed from the filter. The pattern depicts a nationwide response from the United States but a concentration in the target country of Ukraine. 
 
 The tweets themselves ranged in context of the ongoing crisis.
@@ -25,7 +26,9 @@ Critiques and observations on the level of media attention differnt countries re
 Interestingly, the stream only was able to filter 5 tweets from the Palestinian geography, with the rest of the tweets originating in the Contiguous United States. 
 
 ![Map of Tweets filtered 'Palestine'](img/screenshot_of_map-2.png)
+
 Above is the the map that depicts the tweet origins for tracking the term 'Palestine'. I worry though that this filter was incorrect or simply the time parameter no longer relevant because no tweet directly mentioned Palestine. 
 
 ![Wordcloud for tracked term: Palestine](img/screenshot_of_wordcloud-2.png)
+
 The context in this world cloud is far more skewed than that of Ukraine. I think again this has to do with the time relevance between the two search terms and the more prevelant attention on the ongoing war in Ukraine. 
